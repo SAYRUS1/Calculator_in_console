@@ -1,9 +1,18 @@
 # Calculator_in_console
-
-
-
-
-
+\
+/
+\
+/
+\
+/
+\
+/
+\
+/
+\
+/
+\
+/
 #### How to choose a license on GitHub
    Permissive_______________________Weakly Protective_____________Strong Protective_________Network Protective
    Разрешающий_________________Слабо Защищенный__________Сильно защищенный_____Защита в сети
