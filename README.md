@@ -1,6 +1,6 @@
 # Calculator_in_console
-\
-/
+\.
+/\
 \
 /
 \
