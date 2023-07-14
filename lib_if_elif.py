@@ -1,7 +1,7 @@
 def sump(a,b,c):
     if c == "+":
         d = a + b
-        print(d)
+        print(a,c,b,"=",d)
     else:
         summ(a,b,c)
 def summ(a,b,c):
@@ -13,13 +13,13 @@ def summ(a,b,c):
 def sumu(a,b,c):
     if c == "*":
         d = a * b
-        print(f"{a * b }")
+        print(a,c,b,"=",d)
     else:
         sumr(a,b,c)
 def sumr(a,b,c):
     if c == "/":
         d = a / b
-        print(f"{a / b }")
+        print(a,c,b,"=",d)
     else:
         Fuck = '''Ого, если вы видите это 
         сообщение то мы 
