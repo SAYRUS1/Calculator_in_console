@@ -3,13 +3,13 @@ import lib_if_elif as l
 
 def data_entry():
     try:
-        a = int(input("Введите число: ")) 
-        b = int(input("Введите второе число: "))
-        c = input("Введите знак: ")
+        a = int(input("1 Enter the operand: ")) 
+        b = int(input("2 Enter the operand: "))
+        c = input("Enter the operand: ")
         if c == "+" or c == "-" or c == "/" or c == "*":
              l.sump(a,b,c)
         else:
-            print("Введите знак!")
+            print("Select the action + - * /   ?:")
             data_entry()   
     except Exception as Fuck0:
         print(Fuck0)
