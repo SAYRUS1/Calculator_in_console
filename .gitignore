@@ -1,2 +1,4 @@
-__pycache__/lib_if_elif.cpython-311.pyc
-__pycache__
+### Python template
+# Byte-compiled / optimized / DLL files
+*.pyc
+__pycache__/
